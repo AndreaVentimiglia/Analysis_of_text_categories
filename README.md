@@ -38,6 +38,7 @@ pip install -r requirements.txt
 
 2) Start the GO server
 Go into the "ServerGo" folder and open the terminal and run the command:
+
 go run main.go
 
 4) Start the Python server
