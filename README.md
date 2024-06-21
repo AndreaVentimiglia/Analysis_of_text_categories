@@ -37,12 +37,11 @@ pip install -r requirements.txt
 1) Connect mongoDB server
 
 2) Start the GO server
-Go into the "ServerGo" folder and open the terminal and run the command:
+   - Go into the "ServerGo" folder and open the terminal and run the command:
+   - go run main.go
 
-go run main.go
-
-4) Start the Python server
-Go into the "ServerPython" folder and open the terminal and run the command:
-py main.py
-
-5) Start the C# client
+3) Start the Python server
+   - Go into the "ServerPython" folder and open the terminal and run the command:
+   - py main.py
+     
+4) Start the C# client
