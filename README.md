@@ -25,14 +25,13 @@ pip install -r requirements.txt
 
 2) C# packages:
 - Administrator:
--- Newtonsoft.Json.13.0.3
--- System.Buffers.4.5.1
--- System.Memory.4.5.5
--- System.Numerics.Vectors.4.5.0
--- System.Runtime.CompilerServices.Unsafe.6.0.0
-
+  - Newtonsoft.Json.13.0.3
+  - System.Buffers.4.5.1
+  - System.Memory.4.5.5
+  - System.Numerics.Vectors.4.5.0
+  - System.Runtime.CompilerServices.Unsafe.6.0.0
 - User
--- Newtonsoft.Json.13.0.3
+  - Newtonsoft.Json.13.0.3
 
 ## START
 1) Connect mongoDB server
