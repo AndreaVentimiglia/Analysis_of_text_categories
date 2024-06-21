@@ -15,6 +15,12 @@ The possible operations that can be carried out are:
 - List of texts and total percentage of the most used genres by an author
 - WordCloud image creations
 
+## Documetation
+For a detailed explanation of how the project works, see the documentation:
+- ITA: [qui](docs/Documentazione.pdf).
+- ENG: [qui](docs/Documentation.pdf).
+
+
 ## Link testi:
 https://imsdb.com/search.php
 
