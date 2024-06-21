@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - User
   - Newtonsoft.Json.13.0.3
 
-## START
+## Start
 1) Connect mongoDB server
 
 2) Start the GO server
