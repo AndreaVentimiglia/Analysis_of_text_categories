@@ -17,8 +17,8 @@ The possible operations that can be carried out are:
 
 ## Documetation
 For a detailed explanation of how the project works, see the documentation:
-- ITA: [qui](docs/Documentazione.pdf).
-- ENG: [qui](docs/Documentation.pdf).
+- ITA: [qui](Docs/Documentazione.pdf).
+- ENG: [qui](Docs/Documentation.pdf).
 
 
 ## Link testi:
