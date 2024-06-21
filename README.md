@@ -15,8 +15,6 @@ The possible operations that can be carried out are:
 - List of texts and total percentage of the most used genres by an author
 - WordCloud image creations
 
-## 
-
 ## Link testi:
 https://imsdb.com/search.php
 
@@ -43,8 +41,8 @@ pip install -r requirements.txt
 Go into the "ServerGo" folder and open the terminal and run the command:
 go run main.go
 
-3) Start the Python server
+4) Start the Python server
 Go into the "ServerPython" folder and open the terminal and run the command:
 py main.py
 
-4) Start the C# client
+5) Start the C# client
